@@ -8,6 +8,3 @@ Passionate about JavaScript until I learned <img src="https://www.typescriptlang
 
 
 
-But making flirting eyes at Kotlin 😏
-
-
