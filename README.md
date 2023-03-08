@@ -1,4 +1,5 @@
-# 🦇🕷️⚰️ Welcome to the graveyard 🪦🧛🧟
+# 🦇 Oh, you made it 🧟
+# 🕷️⚰️ Welcome to the graveyard 🪦🧛
 
 ### About
 
