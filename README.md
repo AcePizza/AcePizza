@@ -1,6 +1,6 @@
 # Graveyard Portfolio
 
-Welcome to my portfolio repository! My name is [Stian Bakke], and I am a full-stack web developer with experience in the MERN Stack, Tailwind CSS, TypeScript, and GraphQL. This portfolio showcases some of my recent projects and skills.
+Welcome to my portfolio repository! My name is Stian Bakke, and I am a full-stack web developer with experience in the MERN Stack, Tailwind CSS, TypeScript, and GraphQL. Passionate about creating efficient and dynamic web applications that solve real-world problems. Constantly seeking new challenges and opportunities to learn and grow as a developer. Committed to writing clean, maintainable code that adheres to best practices and industry standards. This portfolio showcases some of my recent projects and skills.
 
 ## Projects
 
@@ -15,9 +15,9 @@ Here are some of the projects that I have worked on:
 
 Here are some of the skills that I have developed as a web developer:
 
-- Strong proficiency in JavaScript and TypeScript
+- Solid proficiency in JavaScript and TypeScript
 - Experience with the MERN Stack (MongoDB, Express, React, Node.js)
-- Expertise in Tailwind CSS for responsive and modern UI design
+- Experience in Tailwind CSS for responsive and modern UI design
 - Knowledge of GraphQL and REST for building efficient and flexible APIs
 
 ## Contact
