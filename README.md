@@ -1,6 +1,6 @@
 # Github Portfolio
 
-Welcome to my portfolio repository! My name is Stian Bakke, and I am a full-stack web developer with experience in the MERN Stack, Tailwind CSS, TypeScript, and GraphQL. Passionate about creating efficient and dynamic web applications that solve real-world problems. Constantly seeking new challenges and opportunities to learn and grow as a developer. Committed to writing clean, maintainable code that adheres to best practices and industry standards. This portfolio showcases some of my recent projects and skills.
+Welcome to my portfolio repository! My name is Stian Bakke, and I have experience in the MERN Stack, Tailwind CSS, TypeScript, and GraphQL. Passionate about creating efficient and dynamic web applications that solve real-world problems. Constantly seeking new challenges and opportunities to learn and grow as a developer. Committed to writing clean, maintainable code that adheres to best practices and industry standards. This portfolio showcases some of my recent projects and skills.
 
 ## Projects
 
